@@ -11,7 +11,8 @@ I use pytorch for implementing this project. After Preprocessing text data and e
 I use 3 Configurations for Training a bi-LSTM Network:
 - bi-LSTM using Glove Embeddings (pre-trained)
 - bi-LSTM using random initialized embedding
-- bi-LSTM using random initialized embedding with addition of max and average poolin layers  
+- bi-LSTM using random initialized embedding with addition of max and average pooling layers  
+  
 loss and accuracy during training are shown below  
 
 ![loss during training](loss.jpg "loss")
@@ -20,4 +21,4 @@ loss and accuracy during training are shown below
 
 ## results
 the confusion matrix for third configuration on test data is shown below
-![confusion matrix](/confiusion_matrix.jpg "confusion matrix")
+![confusion matrix](confiusion_matrix.jpg "confusion matrix")
