@@ -16,6 +16,9 @@ These projects include university projects and projects implemented due to inter
 - [Machine Translation with Transformers](https://github.com/amirhosein-mesbah/Deep_Learning/tree/main/Machine_Translation)
 - [Relation Extraction](https://github.com/amirhosein-mesbah/Deep_Learning/tree/main/Relation_Extraction)
 
+## Generative Networks:
+- [Generative cooperative Net](https://github.com/FeryET/gcn_implementation) with [Farhood Etaati](https://github.com/FeryET)
+
 
 ## Federated Learning:
 - [Federated Learning for image segmentation with fedAdmm](https://github.com/amirhosein-mesbah/Deep_Learning/tree/main/Federated_Learning)
