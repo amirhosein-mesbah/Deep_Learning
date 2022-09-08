@@ -22,7 +22,7 @@ I consider three different architectures and conditions for training:
 
 loss function of these three configurations are shown below
 
-![loss function](assets/loss.jpg. "loss during training")
+![loss function](assets/loss.jpg "loss during training")
 
 ## Results
 some results for the second configuration (Unfreezed ResNet) are shown below
