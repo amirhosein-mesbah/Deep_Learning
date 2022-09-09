@@ -27,8 +27,8 @@ loss function of these three configurations are shown below
 ## Results
 some results for the second configuration (Unfreezed ResNet) are shown below
 ![output 1](assets/output1.jpg "output 1")
-![output 2](assets/output2.jpg "output 1")
-![output 3](assets/output3.jpg "output 1")
+![output 2](assets/output2.jpg "output 2")
+![output 3](assets/output3.jpg "output 3")
 
 
 
